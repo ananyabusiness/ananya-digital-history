@@ -20,7 +20,7 @@ Discussing digital history is undeniably important in our current place in the d
 
 
 
-#Journal B
+# Journal B
 
 Creating a static site with Jekyll was SO INTERESTING! I chose not to use AI to build my HTML and to go though my Terminal using Jekyll. I first had to install Xcode, Homebrew, Ruby, Node, then finally jekyll. I encounted loads of issues with installation at first. I then realized (after a cool 12 hours of Ruby freezing during installlation) that it was mostly because I had not updated my Mac OS in centuries. I believe I was 12 updates (or rather upgrades?) behind. Once I went ahead and updated my computer, I was able to finish my installations, link my Github. Then I encountered an issue running jekyll, or getting my code/computer to know where to find ruby because I updated my computer too much. Tahoe 26.2 makes to really difficult for the installed (applications?) to find (what they need to find). I then figured it out. slowly but surely, going from Ruby 4.0 to ruby 3.2.10 to ruby 3.2.2, trouble shooting, then eventually creating my jekyll folder. I went on and on with these assorted codes to make sure that everything was in order, maybe for an hour or so; then after everything and linking my github, I see that we are not allowed to use Github Pages because of the admin account. So I am really not sure what to do from here. I see that I can host my website elsewhere and still work entirely in Jekyll/my Github repository, but the website will just be hosted elsewhere. 
 
