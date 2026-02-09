@@ -24,7 +24,7 @@ _Congratulations, you've completed this course and joined the world of developer
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Here's a recap of your accomplishments: 
 
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
@@ -62,3 +62,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+ 
