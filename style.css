@@ -2,3 +2,25 @@ body {
   background-color: #c7a27c !important;
 }
 
+
+/* Change the neon green text to your brown */
+a,
+a:visited,
+a:active {
+  color: #8b5e3c !important;
+}
+
+/* Change link hover color */
+a:hover {
+  color: #5c3d28 !important;
+}
+
+/* Change headings (h1, h2, h3, etc.) from green to brown */
+h1, h2, h3, h4, h5, h6 {
+  color: #8b5e3c !important;
+}
+
+/* Change the site title in the header */
+header h1 {
+  color: #8b5e3c !important;
+}
