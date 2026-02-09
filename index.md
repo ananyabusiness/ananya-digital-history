@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="/style.css">
-
 ---
 layout: default
 title: Digital History Journal
