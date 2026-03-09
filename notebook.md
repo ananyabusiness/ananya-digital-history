@@ -6,6 +6,7 @@ title: Digital History Journal
 # Digital History Journal
 ### Ananya Burman
 
+<!--
 # title
 
 Write out your post, this is a paragraph.
@@ -20,7 +21,7 @@ this sentence has a reference. [1]
 ## references
 
 [1] author, book title, page number
-
+-->
 
 # Journal A
 
